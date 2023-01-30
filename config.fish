@@ -4,4 +4,3 @@ end
 for file in /etc/profile.d/*.sh
         replay source $file
 end
-pyenv init - | source
