@@ -1,0 +1,1 @@
+/home/jacek/solus-packages/common/Scripts/helpers.fish
